@@ -1,5 +1,5 @@
 # Hi! I'm Billy
-BSc Mathematics and Statistics, University of Leeds
+*BSc Mathematics and Statistics, University of Leeds*
 
 ## About Me
 I work at the intersection of quantitative analysis and engineering: comfortable with the maths, the code, and translating results into decisions.
