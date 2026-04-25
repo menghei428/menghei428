@@ -2,14 +2,14 @@
 *BSc Mathematics and Statistics, University of Leeds*
 
 ## About Me
-I work at the intersection of quantitative analysis and engineering: comfortable with the maths, the code, and translating results into decisions.
+I work at the intersection of quantitative analysis and engineering. Comfortable with the maths, the code, and translating results into decisions.
 
 ---
 
 ## Skills
-- **Programming Languages:** Python (NumPy, SciPy, pandas, Matplotlib), R, SQL
+- **Programming Languages:** Python (NumPy, SciPy, pandas, Matplotlib), R, SQL, C++ (basic)
 - **Tools:** Excel, Git, LaTeX
-- **Focus Areas:** Quantitative modelling, simulation systems, investment research, statistical analysis
+- **Focus Areas:** Algorithmic trading, quantitative modelling, simulation systems, investment research, statistical analysis
 - **Languages:** English (Professional), Cantonese (Native), Mandarin (Native)
 
 ---
