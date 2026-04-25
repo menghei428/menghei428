@@ -22,7 +22,8 @@ Developed and maintain a physics-based full-track lap time simulator to inform v
 **[View Project](https://github.com/LGRSimulations/LGR_FullTrackQSLapTimeSim)**
 
 ### BTC/USDT SMA Crossover Backtest
-Quantitative backtest of a SMA crossover strategy on BTC/USDT daily data. Metrics: Sharpe ratio, max drawdown, cumulative returns vs. buy-and-hold. Built with Python, pandas, ccxt.
+Backtests a 20/50-day SMA crossover strategy on 500 days of BTC/USDT daily data via Binance API.
+Metrics: gross/net return, Sharpe ratio, max drawdown. Built with Python, pandas, ccxt.
 
 **[View Project](https://github.com/menghei428/crypto-backtest)**
 
