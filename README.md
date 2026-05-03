@@ -17,7 +17,7 @@ I work at the intersection of quantitative analysis and engineering. Comfortable
 ## Technical Projects
 
 ### Full Track QSS Lap Time Simulation
-Developed and maintain a physics-based full-track lap time simulator to inform vehicle setup and performance optimisation.
+Physics-based quasi-steady-state lap time simulator for race strategy and vehicle setup optimisation. Numerical integration of vehicle dynamics across full track layouts.
 
 **[View Project](https://github.com/LGRSimulations/LGR_FullTrackQSLapTimeSim)**
 
@@ -29,6 +29,7 @@ Metrics: gross/net return, Sharpe ratio, max drawdown. Built with Python, pandas
 
 ### Hyperthermic Cancer Treatment Research Project
 Implemented the Pennes Bioheat Equation via FTCS finite difference; extended to a SAR + water-bolus cooling model.
+Includes 2D parameter space optimisation across SAR power and penetration depth.
 
 **[View Project](https://github.com/menghei428/Hyperthermic-Cancer-Treatment-Research-Project)**
 
