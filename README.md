@@ -7,7 +7,7 @@ I work at the intersection of quantitative analysis and engineering. Comfortable
 ---
 
 ## Skills
-- **Programming Languages:** Python (NumPy, SciPy, pandas, Matplotlib), R, SQL, C++ (basic)
+- **Programming Languages:** Python (NumPy, SciPy, pandas, Matplotlib), R, C++ (basic)
 - **Tools:** Excel, Git, LaTeX
 - **Focus Areas:** Algorithmic trading, quantitative modelling, simulation systems, investment research, statistical analysis
 - **Languages:** English (Professional), Cantonese (Native), Mandarin (Native)
